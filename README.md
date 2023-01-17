@@ -98,13 +98,13 @@ endmodule
 ### Multiplexer
 ![images](MultiplexerRTL.png)
 ### Demultiplexer
-![images](DemultiplexerRTL.png)
+![images](DemuxRTL.png)
 
 ### TIMING DIGRAMS 
 ### Multiplexer
 ![images](MultiplexerSimulation.png)
 ### Demultiplexer
-![images](DemultiplexerSimulation.png)
+![images](DemuxSimulation.png)
 
 ### TRUTH TABLE 
 ### Multiplexer
